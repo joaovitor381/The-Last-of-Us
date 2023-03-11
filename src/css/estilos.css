@@ -98,7 +98,7 @@ main:after {
 .imagem {
   width: 100vw;
   height: 100vh;
-  object-fit: cover; /* não deixa a imagem ficar distorcida*/
+  object-fit: cover;
   display: none;
 }
 
